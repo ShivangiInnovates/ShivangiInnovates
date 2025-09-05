@@ -1,13 +1,8 @@
-<h1 align="left" style="font-size: 36px;">Hi! 👋 My name is Shivangi Singh</h1>
+<h1 align="left" style="font-size: 36px;">Hi! My name is Shivangi Singh</h1>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-### Let's explore more about me! ✨
-
-- 🤖 Final year student & aspiring **Product Developer**, graduating **June 2026**  
-- ⚡ Fun fact: I love attending hackathons and have **won 2 out of 5** so far  
-
----
+-  Final year student & aspiring **Product Developer & Manager**, graduating **June 2026**  
 
 ## 🚀 My Skill Set  
 
